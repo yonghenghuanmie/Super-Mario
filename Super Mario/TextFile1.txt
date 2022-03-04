@@ -1,0 +1,31 @@
+Destination
+
+Image resource source + Destination
+
+Object Image Destination status
+Ornament Object	//
+Background Object
+
+Animate time + Object
+
+Movable x_v0 x_a y_v0 y_a + Destination
+
+Collisible + Destination
+Pipe Object Collisible
+
+FlashCoin Animate Object Movable
+
+Box Animate Object Collisible
+Coin Animate Object Collisible
+
+Star Object Movable Collisible
+Castle Object Movable Collisible
+Flag Object Movable Collisible
+Flower Object Movable Collisible
+
+Brick Animate Object Movable Collisible
+Bullet Animate Object Movable Collisible
+Mario Animate Object Movable Collisible status
+Mushroom Animate Object Movable Collisible
+MushroomMonster Animate Object Movable Collisible
+Tortoise Animate Object Movable Collisible
